@@ -1,3 +1,3 @@
 # GraphDB_with_RESTful API
 
-GraphDB with RESTful API built in Python Flask
+GraphDB (Knowledge DB) with RESTful API built in Python Flask
