@@ -1,2 +1,3 @@
-# GraphDB_with_RESTAPI
-Web application for Real-Time Analytics with GraphDB
+# GraphDB_with_RESTful API
+
+GraphDB with RESTful API built in Python Flask
